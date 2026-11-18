@@ -1,6 +1,6 @@
 cask "styx" do
-  version "0.5.7"
-  sha256 "df59d673ada4a4a48e17f8149db2c5ae3e7ac9ee665b17c63c3bac11551642c4"
+  version "0.5.8"
+  sha256 "166ddade740d27427f9b301e9114d75d9ab8c630cb904bdf0a06080b71639829"
 
   url "https://storage.googleapis.com/styx-desktop-releases/mac/Styx-#{version}-arm64.dmg"
   name "Styx"
